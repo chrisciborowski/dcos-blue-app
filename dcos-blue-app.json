@@ -1,5 +1,5 @@
 {
-  "id": "dcos-blue-app",
+  "id": "dcos-blue-apP)",
   "container": {
     "type": "DOCKER",
     "docker": {
